@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../WelcomeScreen/main.qml</file>
+        <file alias="HMI_section.qml">../WelcomeScreen/HMI_section.qml</file>
+        <file alias="LeftTabButton.qml">../WelcomeScreen/LeftTabButton.qml</file>
+        <file alias="Location_section.qml">../WelcomeScreen/Location_section.qml</file>
+        <file alias="Main_Window.qml">../WelcomeScreen/Main_Window.qml</file>
+        <file alias="PLC_section.qml">../WelcomeScreen/PLC_section.qml</file>
+        <file alias="TableHeader.qml">../WelcomeScreen/TableHeader.qml</file>
+        <file alias="hmi-icon-6.jpg">../WelcomeScreen/hmi-icon-6.jpg</file>
+        <file alias="ToggleButton.qml">../WelcomeScreen/ToggleButton.qml</file>
+        <file alias="NormalTextButton.qml">../WelcomeScreen/NormalTextButton.qml</file>
+        <file alias="CircleBtn.qml">../WelcomeScreen/CircleBtn.qml</file>
+        <file alias="File_section.qml">../WelcomeScreen/File_section.qml</file>
+        <file alias="FvWizard.qml">../WelcomeScreen/FvWizard.qml</file>
+        <file alias="Pass.qml">../WelcomeScreen/Pass.qml</file>
+        <file alias="TextBlock.qml">../WelcomeScreen/TextBlock.qml</file>
+        <file alias="Back_Arrow.svg.png">../WelcomeScreen/Back_Arrow.svg.png</file>
+        <file alias="plcsel.jpg">../WelcomeScreen/plcsel.jpg</file>
+    </qresource>
+</RCC>
